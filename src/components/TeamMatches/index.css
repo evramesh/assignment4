@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.match-details {
+  background-color: #4f5db0;
+  padding: 10px;
+}
+.banner {
+  width: 100vw;
+
+  background-size: cover;
+}
+.heading {
+  color: white;
+  font-family: cursive;
+}
+.unlist {
+  display: flex;
+  flex-wrap: wrap;
+}

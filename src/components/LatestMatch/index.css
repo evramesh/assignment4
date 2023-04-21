@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.latest {
+  background-color: #0f172a;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.into {
+  height: 240px;
+  width: 200px;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.li1 {
+  list-style: none;
+  background-color: brown;
+  padding: 3px;
+  margin: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+.icon22 {
+  height: 160px;
+  width: 150px;
+}

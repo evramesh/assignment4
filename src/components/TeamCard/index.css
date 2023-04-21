@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.logo {
+  height: 70px;
+  width: 60px;
+}
+.li {
+  list-style: none;
+  background-color: silver;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 0px;
+  border: 2px solid orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
